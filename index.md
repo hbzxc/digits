@@ -103,6 +103,12 @@ After logging in, here is the page that allows you to list all the Contacts you 
 
 You click the "Edit" link to go to the Edit Contact page, shown next.
 
+#### Edit Contact page
+
+After clicking on the "Edit" link associated with an item, this page displays that allows you to change and save it:
+
+<img src="doc/EditContactPage.PNG">
+
 #### Adding Notes
 
 Users can add notes to their Contacts
@@ -110,12 +116,6 @@ Users can add notes to their Contacts
 <img src="doc/NotesAdded.PNG">
 
 After typing their note clicking "Submit" will append it to the Contact with a date
-
-#### Edit Contact page
-
-After clicking on the "Edit" link associated with an item, this page displays that allows you to change and save it:
-
-<img src="doc/EditContactPage.PNG">
 
 #### Landing (after Login), Admin user
 
